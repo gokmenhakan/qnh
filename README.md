@@ -11,7 +11,7 @@ I only added rotary library and  modified the code with this library.
  *  Rotary Encoder 2 - (OUTA-OUTB-SW) = Arduino Pins (2,3,6)
  *  
  *  *  QNH Encoder Pins:
- *  Rotary Encoder 3 - (OUTA-OUTB-SW) = Arduino Pins (9,8,10)
+ *  Rotary Encoder 3 - (OUTB-OUTA-SW) = Arduino Pins (9,8,10)
  *  
  *   Rotary Library
  *   by Brian Low
