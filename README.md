@@ -1,4 +1,4 @@
-
+Many Thanks creator =VG= SemlerPDX
 Orginal Project Source:
 https://veterans-gaming.com/blogs/entry/32-diy-custom-game-controller-2-dial-hsi-course-and-heading-knobs/
 
