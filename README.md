@@ -2,6 +2,8 @@ Many Thanks creator =VG= SemlerPDX
 Orginal Project Source:
 https://veterans-gaming.com/blogs/entry/32-diy-custom-game-controller-2-dial-hsi-course-and-heading-knobs/
 
+I only added rotary library and  modified the code with this library. 
+
 /* Modified and updated with PCINT code for QNH knob by Hakan GÖKMEN April2023 
  * 
  *  *  HDG AND CRS Encoders Pins:
